@@ -1,6 +1,6 @@
 {
-  "version": "v10.46.1-release.0",
-  "versionCode": 1,
-  "zipUrl": "https://github.com/profiluefter/revanced-magisk-module/releases/download/1/twitter-revanced-magisk-v10.46.1-release.0-all.zip",
+  "version": "v10.49.0-release.0",
+  "versionCode": 2,
+  "zipUrl": "https://github.com/profiluefter/revanced-magisk-module/releases/download/2/twitter-revanced-magisk-v10.49.0-release.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/profiluefter/revanced-magisk-module/update/build.md"
 }
