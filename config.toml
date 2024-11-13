@@ -22,6 +22,7 @@ arch = "both"
 excluded-patches = ""
 
 [Twitter]
+dpi = "120-640dpi"
 build-mode = "both"
 #archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
