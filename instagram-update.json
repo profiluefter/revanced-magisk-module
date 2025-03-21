@@ -1,6 +1,6 @@
 {
-  "version": "v370.1.0.43.96 (patches: 5.14.0)",
-  "versionCode": 28,
-  "zipUrl": "https://github.com/profiluefter/revanced-magisk-module/releases/download/28/instagram-revanced-magisk-v370.1.0.43.96-all.zip",
+  "version": "v372.0.0.48.60 (patches: 5.15.0)",
+  "versionCode": 29,
+  "zipUrl": "https://github.com/profiluefter/revanced-magisk-module/releases/download/29/instagram-revanced-magisk-v372.0.0.48.60-all.zip",
   "changelog": "https://raw.githubusercontent.com/profiluefter/revanced-magisk-module/update/build.md"
 }
